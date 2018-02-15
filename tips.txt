@@ -3,3 +3,10 @@ look at the imports in game.go
 
 see affine in game.go
 
+export PATH=$PATH:/usr/local/go/bin
+
+export GOROOT=$HOME/go1.X
+export PATH=$PATH:$GOROOT/bin
+
+as of Fri Feb 16 00:19:27 AEDT 2018 the current version is 1.9.4
+
