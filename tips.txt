@@ -1,0 +1,5 @@
+Thu Feb 15 22:46:26 AEDT 2018 
+look at the imports in game.go
+
+see affine in game.go
+
